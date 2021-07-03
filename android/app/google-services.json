@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615471671131",
+    "project_id": "appointmentappson",
+    "storage_bucket": "appointmentappson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615471671131:android:c84b5430e8e063b5769c7e",
+        "android_client_info": {
+          "package_name": "com.example.cansucavuldakappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615471671131-o947hbt746gurmgc4f6vgu54m8hb177m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsFxaU9NdYXJsHLpwqkcMD_7gzZQaulHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615471671131-o947hbt746gurmgc4f6vgu54m8hb177m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
